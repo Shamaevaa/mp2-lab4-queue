@@ -1,7 +1,6 @@
 #include "TQueue.h"
 #include "TQueue.h"
 #include <gtest.h>
-
 TEST(TQueue, can_create_queue)
 {
 	ASSERT_NO_THROW(Queue<int> p(5));

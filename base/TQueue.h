@@ -1,6 +1,5 @@
 ﻿#pragma once
 #define MaxMemSize   100 // размер памяти по умолчанию
-
 using namespace std;
 template <class New>
 class Queue
