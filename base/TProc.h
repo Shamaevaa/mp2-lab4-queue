@@ -5,7 +5,6 @@
 #include <Windows.h>
 #include <iostream>
 #include <vector>
-
 using namespace std;
 
 struct Task
@@ -13,12 +12,12 @@ struct Task
 	int cores = 0;
 	int tacts = 0;
 };
-
 struct Procecor
 {
 	vector <Task> proces;
 	int coresProc = 0;
 };
+
 class Proceccor
 {
 private:

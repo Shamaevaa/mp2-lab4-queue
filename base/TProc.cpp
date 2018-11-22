@@ -1,6 +1,5 @@
 #include"TProc.h"
 #include <ctime>
-
 Task Proceccor::TaskGeneration() //Генератор задач 
 {
 	srand((unsigned int)time(NULL));
